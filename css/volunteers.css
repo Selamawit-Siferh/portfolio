@@ -11,7 +11,10 @@ position: relative;
    
    nav ul li a {border-radius:25% ;
     padding: 0.5em ;
+<<<<<<< HEAD
     text-decoration: none;
+=======
+>>>>>>> main
     margin: 0.5em;
     background-color:cornsilk;
     float: left;}
